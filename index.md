@@ -4,3 +4,5 @@
 ###### this is my test H6 header
 
 This is the short meaningful commit message that describes the change I made to the file: I added several test headers and then this sentence.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
